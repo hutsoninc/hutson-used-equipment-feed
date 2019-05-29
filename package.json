@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "bluebird": "^3.5.1",
-    "dotenv": "^5.0.1",
+    "dotenv": "^8.0.0",
     "fetch-retry": "^1.1.1",
     "json2csv": "^4.2.1",
     "xml2js": "^0.4.19"
